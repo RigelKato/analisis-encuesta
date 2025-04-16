@@ -1,0 +1,21 @@
+id,edad,genero,pais,satisfaccion,volveria_a_comprar,producto_favorito,comentario
+1,25,F,México,4,Sí,Smartwatch,Muy buen servicio
+2,37,M,Argentina,2,No,Audífonos,Lento el envío
+3,45,M,Colombia,5,Sí,Smartphone,Todo excelente
+4,29,F,México,3,Sí,Tablet,Buen producto
+5,33,F,Chile,4,Sí,Audífonos,Me encantó
+6,40,M,Argentina,1,No,Mouse,No llegó completo
+7,22,F,Colombia,5,Sí,Smartwatch,Excelente atención
+8,28,F,México,4,Sí,Tablet,Fácil de usar
+9,50,M,Chile,3,No,Mouse,Demasiado caro
+10,31,M,Argentina,2,No,Smartphone,No funciona bien
+11,27,M,Colombia,5,Sí,Tablet,Buena calidad
+12,36,F,México,4,Sí,Smartwatch,Entrega rápida
+13,41,M,Chile,3,Sí,Smartphone,Funciona bien
+14,48,F,México,5,Sí,Audífonos,Buena experiencia
+15,30,M,Colombia,2,No,Mouse,Incompleto
+16,26,F,Argentina,3,Sí,Tablet,Me gustó
+17,39,M,Chile,4,Sí,Audífonos,Funciona perfecto
+18,43,F,México,5,Sí,Smartphone,Buena compra
+19,34,F,Argentina,4,Sí,Mouse,Todo bien
+20,38,M,Colombia,2,No,Smartwatch,No lo recomiendo
