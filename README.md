@@ -1,6 +1,6 @@
 Proyecto: Análisis de Encuesta de Comportamiento de Clientes
 📌 Objetivo
-Identificar patrones de comportamiento de compra y segmentación de clientes a partir de los resultados de una encuesta.
+Analizar las respuestas de los clientes para identificar patrones de comportamiento de compra y segmentación de clientes.
 
 🛠 Herramientas usadas
 
@@ -11,13 +11,13 @@ Tableau (para visualización interactiva de resultados)
 
 📈 Resultados clave
 
-Segmentación de clientes: Se agruparon a los clientes en tres segmentos principales según su comportamiento de compra: compradores frecuentes, ocasionales y de temporada.
+Segmentación de clientes: Se crearon tres segmentos principales de clientes según su frecuencia de compra: frecuentes, ocasionales y estacionales.
 
-Patrones de compra: Se identificaron preferencias por productos específicos y métodos de pago más utilizados, como pagos con tarjeta y efectivo.
+Patrones de compra: Se encontró que los clientes frecuentes prefieren pagar con tarjeta, mientras que los ocasionales prefieren el efectivo.
 
-Recomendaciones: Se sugiere enfocar campañas de marketing hacia los clientes frecuentes y promover productos con menor rotación entre los compradores ocasionales.
+Preferencias por producto: Los productos electrónicos y accesorios mostraron ser los más demandados, mientras que los productos de moda tuvieron un desempeño más moderado.
 
-Tendencia de compra: Se observó un aumento en las compras durante las festividades y una baja en el mes posterior a las mismas.
+Tendencia de compra: La mayor parte de las compras se realizaron durante las temporadas de promociones y festividades, con una disminución posterior en los meses siguientes.
 
 📁 Archivos
 
@@ -25,4 +25,6 @@ Link de análisis en R: Ver análisis
 
 Link de Dashboard de Tableau: Ver Dashboard
 
-Link de los archivos de proyecto: Ver archivos del proyecto
+Link de los archivos del proyecto: Ver archivos
+
+
