@@ -20,6 +20,6 @@ Analizar las respuestas de los clientes para identificar patrones de comportamie
 
 - Link de Dashboard de Tableau: https://public.tableau.com/views/ProyectodeEncuestas/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-- Link de los archivos del proyecto: Ver archivos
+- Link de los archivos: 
 
 
