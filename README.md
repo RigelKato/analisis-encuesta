@@ -16,9 +16,9 @@ Analizar las respuestas de los clientes para identificar patrones de comportamie
 - Tendencia de compra: La mayor parte de las compras se realizaron durante las temporadas de promociones y festividades, con una disminución posterior en los meses siguientes.
 
 ## 📁 Archivos
-- Link de análisis en R: Ver análisis
+- Link de análisis en R: https://github.com/RigelKato/analisis-encuesta/blob/main/Proyecto_Encuesta.R
 
-- Link de Dashboard de Tableau: Ver Dashboard
+- Link de Dashboard de Tableau: https://public.tableau.com/views/ProyectodeEncuestas/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 - Link de los archivos del proyecto: Ver archivos
 
